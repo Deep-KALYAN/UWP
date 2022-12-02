@@ -1,0 +1,12 @@
+﻿<Application
+    x:Class="Activite3UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Activite3UWP">
+
+    <Application.Resources>
+        <Style x:Key="testFontSize" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+    </Application.Resources>
+</Application>
